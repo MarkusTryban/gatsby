@@ -7,7 +7,7 @@ Object {
   "type": "javascript/auto",
   "use": Array [
     Object {
-      "loader": "<PROJECT_ROOT>/node_modules/babel-loader/lib/index.js",
+      "loader": "<HOME_DIR>/Desktop/devProjects/gatsby/node_modules/babel-loader/lib/index.js",
       "options": Object {
         "babelrc": false,
         "cacheIdentifier": "develop---gatsby-dependencies@1.0.0",
@@ -30,7 +30,7 @@ Object {
   "type": "javascript/auto",
   "use": Array [
     Object {
-      "loader": "<PROJECT_ROOT>/packages/gatsby/src/utils/babel-loader.js",
+      "loader": "<HOME_DIR>/Desktop/devProjects/gatsby/packages/gatsby/src/utils/babel-loader.js",
       "options": Object {
         "compact": true,
         "configFile": true,
